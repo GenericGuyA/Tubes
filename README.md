@@ -2,7 +2,7 @@
 # _Smart Vacuum Cleaner_
 
 ## Deskripsi
-_Smart Vacuum Cleaner_ adalah sebuah robot yang dapat menghisap debu secara otomatis, jadi anda tidak perlu khawatir lagi saat tempat anda kotot! Anda juga tidak perlu capek-capek lagi menyapu rumah!
+_Smart Vacuum Cleaner_ adalah sebuah robot yang dapat menghisap debu secara otomatis, jadi anda tidak perlu khawatir lagi saat tempat anda kotor! Anda juga tidak perlu capek-capek lagi menyapu rumah!
 
 ### Penggunaan:
 1. Pasang Baterai Ppada soket baterai utama dan soket baterai kipas
