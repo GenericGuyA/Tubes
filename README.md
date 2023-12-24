@@ -15,3 +15,8 @@ _Smart Vacuum Cleaner_ adalah sebuah robot yang dapat menghisap debu secara otom
 - Sensor Ultrasonik HC-SR04 yang membaca jarak 15mm sebelum berbelok
 - Servo sebagai penggerak ultrasonik agar robot dapat membaca rintaangan 180 derajat
 - Dilengkapi 4 roda agar stabil
+
+
+
+https://github.com/GenericGuyA/Tubes/assets/154209080/8a852d75-a2a5-4157-a0ea-f2a9ada8c1dc
+
