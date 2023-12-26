@@ -12,7 +12,7 @@ _Smart Vacuum Cleaner_ adalah sebuah robot yang dapat menghisap debu secara otom
 
 ### Spesifikasi:
 - Membutuhkan tegangan sebesar 11 volt (7 volt untuk roda, 4 volt untuk kipas)
-- Sensor Ultrasonik HC-SR04 yang membaca jarak 15mm sebelum berbelok
+- Sensor Ultrasonik HC-SR04 yang membaca jarak 30mm sebelum berbelok
 - Servo sebagai penggerak ultrasonik agar robot dapat membaca rintaangan 180 derajat
 - Dilengkapi 4 roda agar stabil
 
